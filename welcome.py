@@ -21,5 +21,5 @@ print(x/y)
 x,y,z,u=10,4,6,9
 print(x)
 first_name = input("Enter name: ")
-last_name = input("Enter your last name: ")
+last_name = input("Enter your Last Name: ")
 print(greating + first_name + last_name)
