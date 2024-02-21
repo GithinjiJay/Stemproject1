@@ -23,3 +23,5 @@ print(x)
 first_name = input("Enter name: ")
 last_name = input("Enter your Last Name: ")
 print(greating + first_name + last_name)
+year = 2024
+print(year)
