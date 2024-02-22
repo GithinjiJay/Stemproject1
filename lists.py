@@ -1,0 +1,5 @@
+fruits = ("banana", "apple", "mango")
+subjects = ("maths", "english", "physics")
+print(len(fruits))
+sentence = ("Hello World")
+print(len(sentence))
